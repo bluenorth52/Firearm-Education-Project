@@ -1,6 +1,5 @@
 # Firearm-Education-Project
-Freelance Project completed with Career Foundry Data Analysis course. An additional visulization presentation was completed and is available on Tableau Public: 
-https://public.tableau.com/app/profile/haley.bustle/viz/FirearmEducationProjectStoryboardSB/FirearmEducationProjectSB?publish=yes 
+Freelance Project completed with Career Foundry Data Analysis course. An additional visulization presentation was completed and is available on [Tableau Public](https://public.tableau.com/app/profile/haley.bustle/viz/FirearmEducationProjectStoryboardSB/FirearmEducationProjectSB?publish=yes). 
 # What is The Firearm Education Project?
 This project is a data-driven exploration to gain a better understanding of firearm related incidents and deaths in the United States. Public perception is frequently shaped by 
 news reports and breaking news headlines, and without unbiased  resources at hand, this can cause misunderstaning and fear. The goal of this project is to present the facts and foster
