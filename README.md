@@ -8,9 +8,9 @@ informed discussions that can enhance public education and safety, hopefully red
 This project will study the leading cause of death in all age groups [by firearms], what age group (if any) are most affected by the leading cause, and if there is a correlation 
 in a state's total population and the total number of reported deaths.
 # Data Sources
-Dataset 1, US Census Estimated Population by State, Year, Gender, and Age Group (2009 to 2017)
-Dataset 2, US CDC Underlying Cause of Death in Population due to Firearms by State, Year, Gender, and Age Group
-*Please see FE Project Brief (01 Project Management) for links to these downloadable datasets
+[Dataset 1](https://github.com/bluenorth52/Firearm-Education-Project/blob/main/Firearm%20Education%20Project/02%20Data/Original%20Data/censusdata.xlsx), US Census Estimated Population by State, Year, Gender, and Age Group (2009 to 2017)
+[Dataset 2](https://github.com/bluenorth52/Firearm-Education-Project/blob/main/Firearm%20Education%20Project/02%20Data/Original%20Data/firearmdata.xlsx), US CDC Underlying Cause of Death in Population due to Firearms by State, Year, Gender, and Age Group
+*Please see Data Collection in folder 02 Data folder; this explains the original CDC Wonder dataset and the neccessary changes made for the purpose of this study
 # About the Code Creator
 This was a project of my choosing as part of my final for the Career Foundry Data Analysis certification program. I chose this project specifially because of it's challeneges and the 
 opportunity to present an unbiased view at deaths related to firearms. 
